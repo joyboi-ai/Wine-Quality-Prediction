@@ -54,7 +54,7 @@ This project uses machine learning to predict wine quality from 11 physicochemic
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/wine-quality-prediction.git
+git clone https://github.com/joyboi-ai/Wine-Quality-Prediction.git
 cd wine-quality-prediction
 ```
 
@@ -309,13 +309,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Libraries**: Scikit-learn, Streamlit, Pandas, NumPy
 - **Community**: Open source contributors and maintainers
 
-## 📞 Contact
-
-For questions, suggestions, or contributions:
-- **Issues**: [GitHub Issues](https://github.com/your-username/wine-quality-prediction/issues)
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-
 ---
 
 **Made with ❤️ using Python, Machine Learning, and Streamlit**
+**Give it a Star✨**
